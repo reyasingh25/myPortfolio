@@ -395,7 +395,7 @@ const degrees = {
     {
       title: "St. Soldier International Convent School,Phase VII, Mohali",
       subtitle: "XII (Higher Secondary Examination-CBSE)",
-      logo_path: "saint.png",
+      logo_path: "saint-logo.png",
       alt_name: "St. Soldier",
       duration: "2021-22",
       descriptions: [
