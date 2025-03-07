@@ -382,7 +382,7 @@ const degrees = {
     {
       title: "Chandigarh Engineering College, CGC, Landran, Mohali. Affiliated to IK GUJRAL Punjab Technical University, Jalandhar",
       subtitle: "B.Tech. in Artificial Intelligence & Machine Learning",
-      logo_path: "https://ptu.ac.in/wp-content/themes/cynic/images/classic-logo.png",
+      logo_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTot98PJhudiiAUjsVPFsqFjLYmTcOWrGII_A&s",
       alt_name: "CEC_PTU",
       duration: "2022 - 2026",
       descriptions: [
