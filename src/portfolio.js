@@ -403,10 +403,10 @@ const degrees = {
         "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
         "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
-      website_link: "#",
+      website_link: "https://stsoldiermohali.com/",
     },
     {
-      title: "Chandigarh Engineering College, CGC, Landran, Mohali. Affiliated to IK GUJRAL Punjab Technical University, Jalandhar",
+      title: "Army Public School,Unchi Bassi,Dasuya",
       subtitle: "X (Secondary Examination-CBSE)",
       logo_path: "aps-logo.png",
       alt_name: "APS",
@@ -416,7 +416,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "#",
+      website_link: "https://www.armyschoolunchibassi.org",
     },
   ],
 };
