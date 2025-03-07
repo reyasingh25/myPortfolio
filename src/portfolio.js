@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -380,17 +380,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Chandigarh Engineering College, CGC, Landran, Mohali. Affiliated to IK GUJRAL Punjab Technical University, Jalandhar",
+      subtitle: "B.Tech. in Artificial Intelligence & Machine Learning",
+      logo_path: "https://ptu.ac.in/wp-content/themes/cynic/images/classic-logo.png",
+      alt_name: "CEC_PTU",
+      duration: "2022 - 2026",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://ptu.ac.in",
     },
     {
       title: "Indiana University Bloomington",
