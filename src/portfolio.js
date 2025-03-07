@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Reya Singh Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "",
   },
 };
 
