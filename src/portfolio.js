@@ -745,7 +745,6 @@ export {
   seo,
   greeting,
   socialMediaLinks,
-  skills,
   competitiveSites,
   degrees,
   certifications,
