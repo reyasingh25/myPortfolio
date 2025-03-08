@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Reya Singh",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate and creative undergraduate learning on any new technology and being updated on the latest developments in the field of AI/ML. Quick to learn, a team player with a goal-set mindset who aims to apply analytical skills and creativity to address real-world problems.",
   og: {
     title: "Reya Singh Portfolio",
     type: "website",
@@ -23,9 +23,8 @@ const greeting = {
   logo_name: "ReyaSingh",
   nickname: "",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "",
+    "A passionate and creative undergraduate learning on any new technology and being updated on the latest developments in the field of AI/ML. Quick to learn, a team player with a goal-set mindset who aims to apply analytical skills and creativity to address real-world problems.",
+  resumeLink: "",
   portfolio_repository: "https://github.com",
   githubProfile: "https://github.com",
 };
@@ -42,7 +41,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/reyasingh84",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -332,48 +331,19 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/u/Reya_singh/",
     },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "GeeksForGeeks",
+      iconifyClassname: "simple-icons:geeksforgeeks",
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.geeksforgeeks.org/user/reyasingrdl/",
     },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    
+    
+    
   ],
 };
 
@@ -386,9 +356,9 @@ const degrees = {
       alt_name: "CEC_PTU",
       duration: "2022 - 2026",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CN, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Artificial Intelligence & Machine Learning.",
+        "⚡  ",
       ],
       website_link: "https://ptu.ac.in",
     },
