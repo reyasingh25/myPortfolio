@@ -388,7 +388,8 @@ const degrees = {
       duration: "2019 - 2020",
       descriptions: [
         "⚡ I was very adaptable and have quality of adjusting quickly to new situations, challenges, or environments",
-       
+       ],
+      website_link: "https://www.armyschoolunchibassi.org/",
     },
   ],
 };
