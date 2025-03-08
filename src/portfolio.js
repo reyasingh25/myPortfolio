@@ -83,7 +83,7 @@ const socialMediaLinks = [
   },
 ];
 
-// const skills = {
+const skills = {}
 //   data: [
 //     {
 //       title: "Data Science & AI",
@@ -746,6 +746,7 @@ export {
   greeting,
   socialMediaLinks,
   competitiveSites,
+  skills,
   degrees,
   certifications,
   experience,
