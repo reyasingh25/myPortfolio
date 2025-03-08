@@ -341,9 +341,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.geeksforgeeks.org/user/reyasingrdl/",
     },
-    
-    
-    
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/profile/reyasingh2592",
+    },  
   ],
 };
 
@@ -358,7 +363,7 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CN, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Artificial Intelligence & Machine Learning.",
-        "⚡  ",
+        
       ],
       website_link: "https://ptu.ac.in",
     },
@@ -369,9 +374,9 @@ const degrees = {
       alt_name: "St. Soldier",
       duration: "2021-22",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I was non-medical student focused on developing strong problem-solving skills, logical thinking, and an understanding of fundamental programming concepts",
+        "⚡ I possess a strong foundation in subjects like mathematics, physics, and computer science, with a keen interest in problem-solving, technology, and innovation. I aim to apply my skills to explore opportunities in engineering and tech-driven fields.",
+        
       ],
       website_link: "https://stsoldiermohali.com/",
     },
@@ -382,11 +387,8 @@ const degrees = {
       alt_name: "APS",
       duration: "2019 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      website_link: "https://www.armyschoolunchibassi.org",
+        "⚡ I was very adaptable and have quality of adjusting quickly to new situations, challenges, or environments",
+       
     },
   ],
 };
@@ -394,38 +396,38 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
+      title: "Natural Language Processing",
+      subtitle: "- Infosys Springboard",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
+        "https://drive.google.com/file/d/1aRZhshvlcdvgStA-qAwm0RsH8AyNLPxx/view?usp=sharing",
+      alt_name: "Infosys Springboard",
       color_code: "#8C151599",
     },
     {
       title: "Deep Learning",
-      subtitle: "- Andrew Ng",
+      subtitle: "- Infosys Springboard",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://drive.google.com/file/d/1JbUJJxd4xdIzJ0sB7hlYAAiGRi7vG4-A/view?usp=sharing",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
+      title: "Dataplex",
       subtitle: "- GCP Training",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://www.credly.com/badges/c8d3480f-6b4a-45d6-a3fa-f4e5e62c639b/public_url",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
+      title: "MongoDB",
+      subtitle: "- MongoDB",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://drive.google.com/file/d/1wpKJf_QhErV0086c6M55_7WG-iFlo9sy/view?usp=sharing",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
@@ -475,29 +477,29 @@ const certifications = {
       color_code: "#2A73CC",
     },
     {
-      title: "Kuberenetes on GCP",
+      title: "BigQuery Data on GCP",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+        "https://www.credly.com/badges/e875adcd-f64b-44ca-9b42-deb833376da3/public_url",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
     {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
+      title: "Data Base Management System",
+      subtitle: "-Prof. Partha Pratim Das",
       logo_path: "nptel_logo.png",
       certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+        "https://drive.google.com/file/d/1lrHXzQNJhg-TWUkTU3K7IsWAUwhFvDkr/view?usp=drive_link",
       alt_name: "NPTEL",
       color_code: "#FFBB0099",
     },
     {
-      title: "Cloud Architecture",
+      title: "Cloud Storage",
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+        "https://www.credly.com/badges/8fde9909-d9c7-43ca-84b6-19cc96a7bd16/public_url",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
