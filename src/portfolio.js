@@ -16,7 +16,6 @@ const seo = {
     url: "",
   },
 };
-
 //Home Page
 const greeting = {
   title: "Reya Singh",
