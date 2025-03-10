@@ -302,12 +302,12 @@ const certifications = {
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
+      title: "AWS Academy Graduate",
+      subtitle: "- Cloud Operations",
       logo_path: "microsoft_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
+        "https://drive.google.com/file/d/1v-u1tu3wm2BkjXxSQmpe1UfZ5nGhw5PF/view?usp=sharing",
+      alt_name: "AWS Academy Graduate",
       color_code: "#D83B0199",
     },
     {
