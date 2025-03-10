@@ -476,8 +476,5 @@ export {
   degrees,
   certifications,
   experience,
-  projectsHeader,
-  publicationsHeader,
-  publications,
   contactPageData,
 };
