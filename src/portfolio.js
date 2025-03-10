@@ -415,22 +415,16 @@ const publications = {
       name: "Neuro-Symbolic Sudoku Solver",
       createdAt: "2023-07-02T00:00:00Z",
       description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      url: "#",
     },
     {
       id: "mdp-diffusion",
       name: "MDP-Diffusion",
       createdAt: "2023-09-19T00:00:00Z",
       description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      url: "#",
     },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
+    
   ],
 };
 
@@ -441,6 +435,28 @@ const contactPageData = {
     profile_image_path: "animated_ashutosh.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours.Feel free to contact me.",
+  },
+  blogSection: {
+    title: "Blogs",
+    subtitle:
+      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
+    link: "#",
+    avatar_image_path: "blogs_image.svg",
+  },
+  addressSection: {
+    title: "Address",
+    subtitle: "Hoshiarpur",
+    locality: "Hajipur",
+    country: "India",
+    region: "Punjab",
+    postalCode: "144221",
+    streetAddress: "Hajipur",
+    avatar_image_path: "address_image.svg",
+    location_map_link: "#",
+  },
+  phoneSection: {
+    title: "",
+    subtitle: "",
   },
 };
 
