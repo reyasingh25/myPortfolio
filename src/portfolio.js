@@ -368,7 +368,7 @@ const experience = {
           duration: "May 2024 - June 2024",
           location: "Panchkula",
           description:
-            "During the internship, I contributed to the development of web applications by leveraging Python for backend logic and integrating HTML, CSS, and JavaScript for frontend design. I worked with MongoDB for efficient data storage and management, ensuring seamless database interactions. Additionally, I utilized Postman to test and troubleshoot APIs, ensuring smooth communication between the client and server. This experience strengthened my understanding of full-stack development and web technologies.",
+            "During the internship, I contributed to the development of web applications by leveraging Python for backend logic and integrating HTML, CSS, and JavaScript for frontend design. I worked with MongoDB for efficient data storage and management, ensuring seamless database interactions. Additionally, I utilized Postman to test and troubleshoot APIs, ensuring smooth communication between the client and server. ",
           color: "#000000",
         },
       ],
