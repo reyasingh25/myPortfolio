@@ -294,7 +294,7 @@ const certifications = {
     {
       title: "MongoDB",
       subtitle: "- MongoDB",
-      logo_path: "MongoDB-Logo.png",
+      logo_path: "ibm_logo.png",
       certificate_link:
         "https://drive.google.com/file/d/1wpKJf_QhErV0086c6M55_7WG-iFlo9sy/view?usp=sharing",
       alt_name: "IBM",
